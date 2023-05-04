@@ -1,3 +1,5 @@
+import os
+import io
 import tkinter as tk
 from tkinter import filedialog, ttk
 import PyPDF2
